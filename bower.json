@@ -1,0 +1,16 @@
+{
+  "name": "sticky",
+  "authors": [
+    "TakamiChie"
+  ],
+  "description": "Pico theme like sticky paper.",
+  "main": "index.twig",
+  "keywords": [
+    "theme"
+  ],
+  "license": "MIT",
+  "homepage": "http://pico.onpu-tamago.net/",
+  "dependencies": {
+    "Honoka": "^3.3.7"
+  }
+}
